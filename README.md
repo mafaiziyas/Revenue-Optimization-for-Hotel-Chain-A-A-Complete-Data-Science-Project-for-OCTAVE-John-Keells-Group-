@@ -1,4 +1,4 @@
-# Hotel Booking Revenue Optimization (Ongoing Group Project)
+# Hotel Booking Revenue Optimization 
 
 # Predictive Analytics for Hotel Chain A (OCTAVE - John Keells Group)
 
