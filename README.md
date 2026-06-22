@@ -5,9 +5,6 @@
 ## Project Overview
 This project aims to help Hotel Chain A reduce revenue lost from booking cancellations and no-shows. By analyzing historical data from OCTAVE, the goal is to move from looking at past problems to predicting future risks. This provides data-driven advice to improve how the hotel chain manages its City, Airport, and Resort properties.
 
-## My Role
-Lead Data Engineer & Analyst
-
 ## Main Objectives
 ### 1. Investigative & Exploratory Objectives
 
